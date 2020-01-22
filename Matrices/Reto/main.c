@@ -11,7 +11,7 @@ int main()
     bidimensionalArray[0][0] = 1;
     bidimensionalArray[0][1] = 1;
     bidimensionalArray[0][2] = 1;
-    bidimensionalArray[0][3] = 1;
+    bidimensionalArray[0][3] = 1;*/
     total1 = bidimensionalArray[0][0] + bidimensionalArray[0][1] + bidimensionalArray[0][2] + bidimensionalArray[0][3];
 
     bidimensionalArray[1][0] = 1;
